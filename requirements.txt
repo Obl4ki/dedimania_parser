@@ -1,0 +1,4 @@
+lxml
+bs4
+selenium
+webdriver-manager==3.7.1

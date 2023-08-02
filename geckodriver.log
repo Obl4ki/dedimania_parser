@@ -1,0 +1,208 @@
+1690937464973	geckodriver	INFO	Listening on 127.0.0.1:33446
+1690937468008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\oblak\\AppData\\Local\\Temp\\rust_mozprofile4R2yjD"
+1690937494232	geckodriver	INFO	Listening on 127.0.0.1:33498
+1690937497294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\oblak\\AppData\\Local\\Temp\\rust_mozprofiles38hDw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690937497627	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690937497631	Marionette	INFO	Listening on port 33506
+WebDriver BiDi listening on ws://127.0.0.1:33499
+Read port: 33506
+1690937497918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:33499/devtools/browser/3dfa6eb5-f2be-4f20-8a5a-3688be31d088
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+1690937618677	Marionette	INFO	Stopped listening on port 33506
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33558" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\oblak\\AppData\\Local\\Temp\\rust_mozprofileMv2495"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690937541134	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690937541141	Marionette	INFO	Listening on port 33566
+Read port: 33566
+WebDriver BiDi listening on ws://127.0.0.1:33558
+1690937541308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:33558/devtools/browser/5d425749-95db-4e19-b137-d79aa3c8fef3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+1690937617533	Marionette	INFO	Stopped listening on port 33566
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\oblak\\AppData\\Local\\Temp\\rust_mozprofilelfZNTU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690937617259	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690937617267	Marionette	INFO	Listening on port 33647
+Read port: 33647
+WebDriver BiDi listening on ws://127.0.0.1:33638
+1690937617444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:33638/devtools/browser/a894edc5-8735-4b5f-a625-335918ab79ec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+1690937660008	Marionette	INFO	Stopped listening on port 33647
+Dynamically enable window occlusion 1
+1690937773170	geckodriver	INFO	Listening on 127.0.0.1:33846
+1690937968612	geckodriver	INFO	Listening on 127.0.0.1:33973
+1690937971661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33974" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\oblak\\AppData\\Local\\Temp\\rust_mozprofileRDZzPy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690937972135	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690937972244	Marionette	INFO	Listening on port 33981
+WebDriver BiDi listening on ws://127.0.0.1:33974
+Read port: 33981
+1690937972533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:33974/devtools/browser/42a6efa7-69dc-4c0e-af2e-fbff10e73fdf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+[Parent 6468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14916, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+1690937991741	Marionette	INFO	Stopped listening on port 33981
+Dynamically enable window occlusion 1
+[Parent 6468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14916, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14916, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14916, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14916, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6468, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14916, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1690938193437	geckodriver	INFO	Listening on 127.0.0.1:34078
+1690938196494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "34079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\oblak\\AppData\\Local\\Temp\\rust_mozprofilewoU2Uo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690938196822	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690938196915	Marionette	INFO	Listening on port 34088
+WebDriver BiDi listening on ws://127.0.0.1:34079
+Read port: 34088
+1690938197167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:34079/devtools/browser/22fb56db-0336-4b7c-b060-8b2c090d1e7a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+1690938202392	Marionette	INFO	Stopped listening on port 34088
+Dynamically enable window occlusion 1
+[Parent 4484, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4484, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4484, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4484, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4484, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 4484, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17108, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1690981544533	geckodriver	INFO	Listening on 127.0.0.1:10150
+1690981547592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\oblak\\AppData\\Local\\Temp\\rust_mozprofileWBT2La"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690981548528	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690981548709	Marionette	INFO	Listening on port 10158
+WebDriver BiDi listening on ws://127.0.0.1:10151
+Read port: 10158
+1690981549116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:10151/devtools/browser/83e8487f-b84b-4283-bcbe-5d150e5f37e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+[Parent 13064, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16548, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+1690981611485	geckodriver	INFO	Listening on 127.0.0.1:10213
+1690981614529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\oblak\\AppData\\Local\\Temp\\rust_mozprofileflyULT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690981615135	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690981615292	Marionette	INFO	Listening on port 10221
+Read port: 10221
+WebDriver BiDi listening on ws://127.0.0.1:10214
+1690981615423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:10214/devtools/browser/fb9c4bd9-bf41-4e4b-a6e2-bacb2708540e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+[Parent 21232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13524, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://dedimania.net."
